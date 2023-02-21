@@ -1,4 +1,5 @@
-# highlander
+# Highlander
+Highlander is a micro-cloud provisioning service or a platform as a service for deploying web applications, managing storage and provisioning other web services 
 
 ## Project setup
 ```
